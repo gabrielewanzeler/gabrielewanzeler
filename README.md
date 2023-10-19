@@ -2,9 +2,7 @@
 
 - 🔭 Atualmente na área de desenvolvimento de software e machine learning.
 - 🌱 Desenvolvendo em Typescript, Java, JavaScript, Python, HTML, CSS.
-- 💡 Utilizo o Angular como o principal framework nos meus projetos.
 - 📫 Contate-me através do e-mail: gabrielewanzeler000@gmail.com
-- 😄 Pronomes: ela/dela
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
